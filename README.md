@@ -1,6 +1,6 @@
 # Intro_to_Assembly_Language
 
-![image](https://github.com/tximista64/Intro_to_Assembly_Language/blob/main/lucas.jpeg)
+![image](https://github.com/tximista64/Intro_to_Assembly_Language/blob/main/Register.png)
 
 
 
